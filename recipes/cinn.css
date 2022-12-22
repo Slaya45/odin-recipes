@@ -1,12 +1,14 @@
 
 
+
+
 img {  
-max-width: 40%;  
+max-width: 20%;  
 height: auto;
 
     position: absolute;
     top: 350px;
-    right: 0;
+    right: 80;S
     width: auto;
     height: auto;
     border: 3px solid #000000;
@@ -14,20 +16,30 @@ height: auto;
 
 
 }  
-p {font-style: italic;}
+p {font-style: italic;
+border: 2px solid;
+border-color: black;
+
+
+  font-size: 20px;
+ 
+}
+li {padding: -5px;
+    font-size: 15px;
+    font-style: italic;
+}
 
 
  
 
 
 header {
-    padding: 45px;
-    text-align: center;
-
-    background: rgba(165, 0, 0, 0.8);
+    background-color: blanchedalmond;
+ padding: 20px;
     color: rgb(0, 0, 0);
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    
 }
 
