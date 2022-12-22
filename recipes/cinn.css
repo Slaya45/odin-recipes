@@ -20,14 +20,10 @@ p {font-style: italic;
 border: 2px solid;
 border-color: black;
 
-
   font-size: 20px;
- 
+
 }
-li {padding: -5px;
-    font-size: 15px;
-    font-style: italic;
-}
+
 
 
  
@@ -40,6 +36,32 @@ header {
     font-size: 18px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    
+    margin: 30px;
 }
 
+div.container {    
+    margin: 45px;
+    padding: 15px;
+   background-color: blueviolet; 
+  
+border: 2px;
+width: 90%;
+top: 50%;
+left: 50%;
+}
+
+
+div.prepstuff {
+    margin: 45px;
+    padding: 15px;
+   background-color: blueviolet; 
+
+border: 2px;
+width: 90%;
+top: 75%;
+left: 75%;
+
+
+
+
+}
