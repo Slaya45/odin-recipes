@@ -1,6 +1,15 @@
-*{
+
+
+header {
+    text-align: center;
+}
+
+.topHalf{
     text-align: center;
     align-items: center;
+    max-width: auto;
+    max-height: 900px;
+    overflow: hidden;
 }
  
 
@@ -12,11 +21,19 @@
 #cinn{
 
 height: 30%;
-max-width: auto;
+max-width: 90%;
 align-items: center;
 }
 
 .container {
-    padding: 5%;
-    margin: 5s%;
+    padding: auto;
+    margin: auto;
+   width: 25%;
+
+
+}
+
+.instructions {
+    text-align: center;
+
 }
