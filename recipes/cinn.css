@@ -1,67 +1,22 @@
-
-
-
-
-img {  
-max-width: 20%;  
-height: auto;
-
-    position: absolute;
-    top: 350px;
-    right: 80;S
-    width: auto;
-    height: auto;
-    border: 3px solid #000000;
-
-
-
-}  
-p {font-style: italic;
-border: 2px solid;
-border-color: black;
-
-  font-size: 20px;
-
+*{
+    text-align: center;
+    align-items: center;
 }
-
-
-
  
 
+.prepstuff {
+  width: 100%;
+  padding: 10px;
+  margin: 10px;
+}
+#cinn{
 
-header {
-    background-color: blanchedalmond;
- padding: 20px;
-    color: rgb(0, 0, 0);
-    font-size: 18px;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-    margin: 30px;
+height: 30%;
+max-width: auto;
+align-items: center;
 }
 
-div.container {    
-    margin: 45px;
-    padding: 15px;
-   background-color: blueviolet; 
-  
-border: 2px;
-width: 90%;
-top: 50%;
-left: 50%;
-}
-
-
-div.prepstuff {
-    margin: 45px;
-    padding: 15px;
-   background-color: blueviolet; 
-
-border: 2px;
-width: 90%;
-top: 75%;
-left: 75%;
-
-
-
-
+.container {
+    padding: 5%;
+    margin: 5s%;
 }
