@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+}
+#welcomeMessage{
+    width: auto;
+    font-size: 35px;
+}
+#thankYouMessage{
+    width: auto;
+    font-size: 35px;
+}
+h2{
+    font-size: 28px;
+}
+a{
+    font-size: 22px;
+}
+li {
+    height: 100%;
+    font-size: initial;
+    border-width: 1px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   
+}
+#cinn{
+    max-width: 15%;
+}
