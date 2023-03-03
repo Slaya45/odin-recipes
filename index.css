@@ -1,14 +1,21 @@
-*{
+
+body{
+    background-image: url(backgroundCoffee.jpg);
+}
+#centerBody{
+    background-color: rgb(255, 250, 238);
+    width: 60%;
+    margin-left: 20%;
     text-align: center;
+    height: 800px;
+    padding: 0px;
+
 }
 #welcomeMessage{
-    width: auto;
     font-size: 35px;
+    padding: 45px;
 }
-#thankYouMessage{
-    width: auto;
-    font-size: 35px;
-}
+
 h2{
     font-size: 28px;
 }
@@ -16,14 +23,10 @@ a{
     font-size: 22px;
 }
 li {
-    height: 100%;
-    font-size: initial;
     border-width: 1px;
-    width: 100%;
-    display: flex;
     justify-content: center;
+
+
+
    
-}
-#cinn{
-    max-width: 15%;
 }
